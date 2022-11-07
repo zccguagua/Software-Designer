@@ -17,7 +17,7 @@ ps:我很懒,只刷了50%的题吧,另注意少数题的答案并不是标准答
 
 希赛每日一练(这里每天刷个10题)
 https://wangxiao.xisaiwang.com/tiku2/list-dp136-1.html
-### 宝藏up主
+#### 宝藏up主
 2022年软件设计师学习路线☆☆☆
 https://www.bilibili.com/read/cv18526892
 b站up主,作者分享每一题的讲解视频,资料非常充足完整,分类也非常明确,不同的题目直接看讲解👍
