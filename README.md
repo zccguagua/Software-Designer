@@ -35,11 +35,11 @@
 ps:另 注意少数题的答案并不一定是正确答案,软考不公布标准答案,答案都是考生或者机构整理出来的,有可能不是正确答案,没必要深究
 <br/>
 
-[希赛每日一练(这里也可以刷题)]("https://wangxiao.xisaiwang.com/tiku2/list-dp136-1.html")
+[希赛每日一练(这里也可以刷题)](https://wangxiao.xisaiwang.com/tiku2/list-dp136-1.html)
 
 #### 试题讲解
 
-[2022年软件设计师学习路线☆☆☆)]("https://www.bilibili.com/read/cv18526892")
+[2022年软件设计师学习路线☆☆☆)](https://www.bilibili.com/read/cv18526892)
 
 这是b站up主整理的学习路径,作者分享每一题的讲解视频,资料非常充足完整,分类也非常明确,不同的题目直接看讲解👍<br/>
 这里的试题文档基本都来自这up主
