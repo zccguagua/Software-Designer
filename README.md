@@ -30,12 +30,28 @@
 15.数据结构与算法应用<br/>
 16.面向对讲程序设计<br/>
 考的范围还是挺广的,但是都考的不深,通常都是浅显的问题
-//TODO 考试分数占比 思维导图
+
+
+![分数占比](https://zccguagua.oss-cn-hangzhou.aliyuncs.com/images/blog/software/fenshu.jpg)
+
+
 ### 3.刷题
 刷题使用<font color="#FFA500">"软考通"app</font>,各个模块的例题区分开了,可以针对各个模块练习<br/>
 ps:另 注意少数题的答案并不一定是正确答案,软考不公布标准答案,答案都是考生或者机构整理出来的,有可能不是正确答案,没必要深究<br/>
 
 [希赛每日一练(这里也可以刷题)](https://wangxiao.xisaiwang.com/tiku2/list-dp136-1.html)
+
+### 部分知识点总结图
+[UML类图几种关系的总结](https://kb.cnblogs.com/page/129490/)
+
+
+![网络](https://zccguagua.oss-cn-hangzhou.aliyuncs.com/images/blog/software/wangluo.png)
+
+![数据结构](https://zccguagua.oss-cn-hangzhou.aliyuncs.com/images/blog/software/shujujiegou.png)
+
+![面向对象](https://zccguagua.oss-cn-hangzhou.aliyuncs.com/images/blog/software/mianxiangduixiang.png)
+
+![软件工程](https://zccguagua.oss-cn-hangzhou.aliyuncs.com/images/blog/software/ruanjiangongcheng.png)
 
 ### 试题讲解
 
@@ -51,6 +67,10 @@ ps:个人看法,作为一名工作党,为了达到即能通过又能减少学习
 ### 估分
 小程序<font color="#FFA500">"希赛网"</font>考完就可以估分,答案是考生/机构整理的
 
-### .
-祝自己考试通过
+### 成绩
+12月15出成绩 上午题48 下午题59
+
+### 证书
+![证书](https://zccguagua.oss-cn-hangzhou.aliyuncs.com/images/blog/software/zhengshu.jpg)
+
 
