@@ -1,8 +1,9 @@
 # Software-Designer
+
 软考中级-软件设计师
 
-
 ## 我的学习路径
+
 工作党,平时上班几乎没有什么时间,只有周末和工作日每晚挤出一点时间
 
 ### 1.教材
@@ -11,7 +12,8 @@
 
 ### 2.视频教程
 
-抛弃书本,找到了<font color="#FFA500">王勇老师</font>的软件设计师讲解视频,讲的还是可以的,1.5倍速过了一遍,边看边做笔记.作为计算机专业的学生,感觉还是毫无压力的,此时对软考考试范围与考点已有大概框架<br/>
+抛弃书本,找到了<font color="#FFA500">王勇老师</font>
+的软件设计师讲解视频,讲的还是可以的,1.5倍速过了一遍,边看边做笔记.作为计算机专业的学生,感觉还是毫无压力的,此时对软考考试范围与考点已有大概框架<br/>
 1.计算机组成与体系结构<br/>
 2.操作系统<br/>
 3.数据库系统<br/>
@@ -31,19 +33,19 @@
 16.面向对讲程序设计<br/>
 考的范围还是挺广的,但是都考的不深,通常都是浅显的问题
 
-
 ![分数占比](https://zccguagua.oss-cn-hangzhou.aliyuncs.com/images/blog/software/fenshu.jpg)
 
-
 ### 3.刷题
-刷题使用<font color="#FFA500">"软考通"app</font>,各个模块的例题区分开了,可以针对各个模块练习<br/>
-ps:另 注意少数题的答案并不一定是正确答案,软考不公布标准答案,答案都是考生或者机构整理出来的,有可能不是正确答案,没必要深究<br/>
 
-[希赛每日一练(这里也可以刷题)](https://wangxiao.xisaiwang.com/tiku2/list-dp136-1.html)
+刷题使用<font color="#FFA500">"软考通"app</font>,各个模块的例题区分开了,可以针对各个模块练习<br/>
+ps:另
+注意少数题的答案并不一定是正确答案,软考不公布标准答案,答案都是考生或者机构整理出来的,有可能不是正确答案,没必要深究<br/>
+
+[希赛每日一练(这里也可以刷题)](https://wangxiao.xisaiwang.com/ucenter2/tiku2/list.html)
 
 ### 部分知识点总结图
-[UML类图几种关系的总结](https://kb.cnblogs.com/page/129490/)
 
+[UML类图几种关系的总结](https://kb.cnblogs.com/page/129490/)
 
 ![网络](https://zccguagua.oss-cn-hangzhou.aliyuncs.com/images/blog/software/wangluo.png)
 
@@ -57,20 +59,34 @@ ps:另 注意少数题的答案并不一定是正确答案,软考不公布标准
 
 [2022年软件设计师学习路线☆☆☆](https://www.bilibili.com/read/cv18526892)
 
-这是<font color="#FFA500">b站up主</font>整理的学习路径,作者分享每一题的讲解视频,资料非常充足完整,分类也非常明细,做错的题目直接看讲解👍<br/>
+这是<font color="#FFA500">b站up主</font>
+整理的学习路径,作者分享每一题的讲解视频,资料非常充足完整,分类也非常明细,做错的题目直接看讲解👍<br/>
 这里的试题文档基本都来自这up主
 
 ### 刷整卷
-考前几天<font color="#FFA500">刷整卷</font>,测试自己通过率,错题看视频讲解(我刷了最近几年的,后面基本刷到50/75感觉差不多了)<br/>
+
+考前几天<font color="#FFA500">刷整卷</font>,测试自己通过率,错题看视频讲解(
+我刷了最近几年的,后面基本刷到50/75感觉差不多了)<br/>
 
 ps:个人看法,作为一名工作党,为了达到即能通过又能减少学习时间成本,没必要对一些偏题怪题深究,保证基础的考点不丢分就行.当然如果时间充足最好还是去背一下
+
 ### 估分
+
 小程序<font color="#FFA500">"希赛网"</font>考完就可以估分,答案是考生/机构整理的
 
+
+### 通过率
+[2023上半年软考湖南省合格名单公布！通过率下降超50%？！](https://mp.weixin.qq.com/s/sIAfA3T1T-KQJ9pUQRIcOw)
+
+[卡通过率了？该地2023上半年软考通过率仅9.25%？！](https://mp.weixin.qq.com/s/POv9D9Uvi3N6vb40elI2Uw)
+
+
 ### 成绩
+
 12月15出成绩 上午题48 下午题59
 
 ### 证书
+
 ![证书](https://zccguagua.oss-cn-hangzhou.aliyuncs.com/images/blog/software/zhengshu.jpg)
 
 
