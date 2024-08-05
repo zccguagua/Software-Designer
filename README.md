@@ -89,3 +89,8 @@ ps:个人看法,作为一名工作党,为了达到即能通过又能减少学习
 ![证书](https://zccguagua.oss-cn-hangzhou.aliyuncs.com/images/blog/software/zhengshu.jpg)
 
 
+### 试题
+
+[2024年上半年软件设计师上午真题及答案解析](https://www.bilibili.com/opus/947901391089696774)
+
+
