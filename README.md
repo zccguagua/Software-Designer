@@ -78,6 +78,8 @@ ps:个人看法,作为一名工作党,为了达到即能通过又能减少学习
 [卡通过率了？该地2023上半年软考通过率仅9.25%？！](https://mp.weixin.qq.com/s/POv9D9Uvi3N6vb40elI2Uw)
 
 [原来拿下软考这么难！2023年软考通过人数一览！](https://mp.weixin.qq.com/s/gt4YlgP3Br646sptQ8IZpA)
+
+[该省软考通过率上涨！软件设计师有650人成绩合格！](https://mp.weixin.qq.com/s/e93EpZFAPU1AJYnxcdkxKA)
 ### 成绩
 
 12月15出成绩 上午题48 下午题59
