@@ -98,3 +98,8 @@ ps:个人看法,作为一名工作党,为了达到即能通过又能减少学习
 [2024下半年软件设计师真题（考生回忆版）](https://blog.csdn.net/scx_yatoy/article/details/144409718)
 
 
+[2025年5月软件设计师基础知识（回忆）](https://docs.qq.com/doc/DSnFHTHpCY1NhaHFa)
+
+[2025年上软考真题-回忆版](https://docs.qq.com/sheet/DWXZ0UnFvTEFLRFhi?tab=BB08J2)
+
+[2025年上半年软件设计师答案回忆](https://blog.csdn.net/qq_37329779/article/details/148200104)
