@@ -89,7 +89,10 @@ ps:个人看法,作为一名工作党,为了达到即能通过又能减少学习
 
 ![证书](https://zccguagua.oss-cn-hangzhou.aliyuncs.com/images/blog/software/zhengshu.jpg)
 
-### 试题
+### 机考
+软考是从 2023 年下半年 开始全面改为**机考**，题目顺序随机，选项顺序随机
+
+### 试题(仅供参考)
 
 [2023年下半年软件设计师真题 答案解析(上午选择 下午案例)全国计算机软考](https://max.book118.com/html/2023/0827/5200320014010320.shtm)
 
@@ -103,3 +106,7 @@ ps:个人看法,作为一名工作党,为了达到即能通过又能减少学习
 [2025年上软考真题-回忆版](https://docs.qq.com/sheet/DWXZ0UnFvTEFLRFhi?tab=BB08J2)
 
 [2025年上半年软件设计师答案回忆](https://blog.csdn.net/qq_37329779/article/details/148200104)
+
+[2026年软件设计师真题及答案解析](https://www.renrendoc.com/paper/529968987.html)
+
+[2026年软件设计师(下午案例分析)试题及答案](https://www.renrendoc.com/paper/528941747.html)
